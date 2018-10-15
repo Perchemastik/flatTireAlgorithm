@@ -1,22 +1,26 @@
 STEP 1 : Turn off the engine
-STEP 2 : unfasten your seatbelt
-STEP 3 : open the door
-STEP 4 : get out of the car
-STEP 5 : locate the flat tire, that will be your work area
-STEP 6 : get to the trunk of the car
-STEP 7 : open the trunk
-STEP 8 : grab the tools (the jack and the lug wrench)
-STEP 9 : place the tools near the flat tire
-STEP 10 : go back to the trunk and locate the spare tire
-STEP 11 : unsecure the spare tire
-STEP 12 : take out the spare tire
-STEP 13 : place the spare tire near the flat tire
-STEP 14 : use lug wrench to loosen all the lug nuts. if lug wrench has more than 1 size, try each size one by one until correct fits, else use single size
-STEP 15 : locate the supports below the car
-STEP 16 : place the jack below the closest support of the flat tire
-STEP 17 : use the jack to lift the car
-STEP 18 : go back to the flat tire and remove the lug nuts and place them all of them together to not lose them
-STEP 19 : remove the flat tire
-STEP 20 : put the flat tire in the floor away from the work area
-STEP 21 : get the spare tire and place it aligned with the screws 
-STEP 22 : put back the nut lugs in place, and thighten them with the lug wrench (similar to step 14)
+STEP 2 : initiate the handbreak
+STEP 3 : unfasten your seatbelt
+STEP 4 : open the door
+STEP 5 : turn on signals
+STEP 6 : if your car has automatic gear, shift to P, else shift it to 1
+STEP 7 : open the door
+STEP 8 : get out of the car, close the door
+STEP 9 : locate the flat tire (loop) , that will be your work area
+STEP 10 : get to the trunk of the car
+STEP 11 : open the trunk
+STEP 12 : grab the tools (the jack and the lug wrench)
+STEP 13 : place the tools near the flat tire
+STEP 14 : go back to the trunk and locate the spare tire
+STEP 15 : unsecure the spare tire
+STEP 16 : take out the spare tire
+STEP 17 : place the spare tire near the flat tire
+STEP 18 : use lug wrench to loosen all the lug nuts. if lug wrench has more than 1 size, try each size one by one until correct fits, else use single size
+STEP 19 : locate the supports below the car
+STEP 20 : place the jack below the closest support of the flat tire
+STEP 21 : use the jack to lift the car
+STEP 22 : go back to the flat tire and remove the lug nuts and place them all of them together to not lose them
+STEP 23 : remove the flat tire
+STEP 24 : put the flat tire in the floor away from the work area
+STEP 25 : get the spare tire and place it aligned with the screws
+STEP 26 : put back the nut lugs in place, and thighten them with the lug wrench (similar to step 14)
